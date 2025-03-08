@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+migrations/
+media/
+
+.env
+
+sensitive_info.txt
